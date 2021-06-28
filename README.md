@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Currently pursuing my Masters in Computer Applications(MCA) at National Institute of Technology, Jamshedpur.
+
 🌱 I’m currently learning ReactJS
+
 👯 Looking to collaborate with Web development projects
