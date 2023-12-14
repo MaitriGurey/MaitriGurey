@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there code buddies! 🚀👋
 
 <!--
 **MaitriGurey/MaitriGurey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Currently pursuing my Masters in Computer Applications(MCA) at National Institute of Technology, Jamshedpur.
 
-🌱 I’m currently learning ReactJS
-
-👯 Looking to collaborate with Web development projects
+I'm a software enthusiast on a mission to become a MERN wizard (MongoDB, Express.js, React, Node.js). I am constantly looking forward to learn new skills and contribute on creating best user experiences of websites.
+Let's code and create cool stuff! 🚀 #ReactJS #WebDev #MERNStack
