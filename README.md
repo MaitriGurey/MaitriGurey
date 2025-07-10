@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a software enthusiast on a mission to become a MERN wizard (MongoDB, Express.js, React, Node.js). I am constantly looking forward to learn new skills and contribute on creating best user experiences of websites.
-Let's code and create cool stuff! 🚀 #ReactJS #WebDev #MERNStack
+I'm a Frontend Engineer who’s passionate about turning complex ideas into beautiful, performant, and accessible web experiences. I love working with **React**, **TypeScript**, and **Next.js**, and I'm always up for a challenge that lets me grow. 
+I’m fascinated by how technology transforms our everyday lives — making things more convenient, connected, and intelligent. That curiosity is what drives me to keep building, breaking, and learning.
+Let's build impactful web experiences together !
+
