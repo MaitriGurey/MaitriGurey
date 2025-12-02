@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Frontend Engineer who’s passionate about turning complex ideas into beautiful, performant, and accessible web experiences. I love working with **React**, **TypeScript**, and **Next.js**, and I'm always up for a challenge that lets me grow. 
-I’m fascinated by how technology transforms our everyday lives — making things more convenient, connected, and intelligent. That curiosity is what drives me to keep building, breaking, and learning.
-Let's build impactful web experiences together !
+I'm a Full-Stack Developer who loves building products end-to-end from crafting intuitive, high-performance UIs to designing reliable backend systems that scale. I enjoy working with React, TypeScript, Next.js, Node.js, and modern web architectures.
+I’m fascinated by how technology transforms our everyday lives, making things more convenient, connected, and intelligent. That curiosity is what drives me to keep building, breaking, and learning.
+Let's build impactful experiences together !
 
